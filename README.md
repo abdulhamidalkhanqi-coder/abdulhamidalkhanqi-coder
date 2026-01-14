@@ -1,16 +1,54 @@
-## Hi there 👋 I am Abdoooooooooooooooooooooo
+## Hi there 👋 I am Abdulhamid Alkhanqi
 
-<!--
-**abdulhamidalkhanqi-coder/abdulhamidalkhanqi-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Backend Developer | .NET Enthusiast 💻
+A passionate backend developer focused on building scalable, secure, and maintainable applications using Microsoft technologies.
 
-Here are some ideas to get you started:
+## Technologies & Tools I Use 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+. Languages: C#, PHP
+
+. Frameworks: ASP.NET Core (.NET)
+
+. Databases: SQL Server
+
+. Concepts & Practices:
+
+. Object-Oriented Programming (OOP)
+
+. SOLID Principles
+
+. RESTful API Design
+
+. CQRS & Repository Pattern
+
+. Authentication & Authorization
+
+## What I Do 🧠
+
+. Develop backend applications using ASP.NET Core
+
+. Build and maintain RESTful APIs
+
+. Design and manage SQL Server databases
+
+. Work with Entity Framework Core
+
+. Write clean, maintainable, and efficient code
+
+ ## I'm Currently Learning 📚
+
+. Advanced ASP.NET Core
+
+. Clean Architecture
+
+. Microservices Architecture
+
+. Docker & RabbitMQ
+
+. System Design & Scalability
+
+. Security (JWT, HTTPS, TLS)
+
+## How to Reach Me 📫
+. Email:abdulhamidalkhanqi@gmail.com
+
